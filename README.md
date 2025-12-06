@@ -1,7 +1,7 @@
 # wow-utils
 Collection of useful World of Warcraft utilities written in bash.
 
-### WoWAddOnsFetchPull.sh
+### WoWAddOnsUpdate.sh
 Navigates all sub-directories of `${WOW_UTILS_PREFIX}/Interface/AddOns`, if there is a Git repository, it will fetch and forcibly update to latest commit of existing branch.
 
 ### WoWScrnShotCompress.sh
